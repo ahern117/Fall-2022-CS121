@@ -12,9 +12,9 @@
 
 #### Group Members
 
-| Name                          | Email       | Github Username |
-| ----------------------------- | ----------- | --------------- |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username    |
+| Name                                          | Email       | Github Username |
+|-----------------------------------------------| ----------- | --------------- |
+| [Beethoven Megganis]()                        | EMAIL address  | username    |
 | [First Name , Last Name](Link to github page) | EMAIL address   | username     |
 | [First Name , Last Name](Link to github page) | EMAIL address  | username   |
 
