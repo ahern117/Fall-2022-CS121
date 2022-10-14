@@ -13,11 +13,11 @@
 
 #### Group Members
 
-| Name                                          | Email       | Github Username |
-|-----------------------------------------------| ----------- | --------------- |
-| [Beethoven Megganis]()                        | EMAIL address  | username    |
-| [First Name , Last Name](Link to github page) | EMAIL address   | username     |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username   |
+| Name                                          | Email | Github Username |
+|-----------------------------------------------| -- | --------------- |
+| [Beethoven Meginnis]()                        | EMAIL address | username    |
+| [Andrew Hernandez](https://github.com/ahern117)       | andrew.hernandez@bsu.edu   | ahern117    |
+| [First Name , Last Name](Link to github page) | EMAIL address | username   |
 
 #### Project Files
 
